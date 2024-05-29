@@ -2,11 +2,15 @@
 I'm Here - React Native 
 </h1>
 
-## 📄 Projeto
-Aplicativo para gerenciar os participantes presentes em eventos, como em palestras e workshops.
-Foi praticado conceitos como componentização, estados, imutabilidade, hooks e como o React Native renderiza interfaces nativas.
+<div align="right">
+    Clique <a href="https://github.com/luc-ribeiro/im-here-react-native/blob/main/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 
-## 💻 Tecnologias
+## 📄 Project
+An application to manage the participants present at events, such as lectures and workshops.
+This project practiced concepts like componentization, state management, immutability, hooks, and how React Native renders native interfaces.
+
+## 💻 Technologies
 
 - **React Native**
 - **TypeScript**
@@ -19,22 +23,22 @@ Foi praticado conceitos como componentização, estados, imutabilidade, hooks e 
 ![ImHere](https://github.com/luc-ribeiro/im-here-react-native/assets/69688077/278836f1-2088-4a90-a0ef-3a60787fbe03)
 </div>
 
-## 🚀 Executando o projeto
+## 🚀 Running the project
 
-- Clone o projeto e acesse o diretório
+- Clone the project and access the directory
 
 ```bash
 $ git clone https://github.com/luc-ribeiro/im-here-react-native.git
 $ cd 
 ```
 
-- Siga os passos abaixo:
+- Follow the steps below:
 ```bash
-# Instale as dependências
+# Install the dependencies
 $ npm i
 
-# Inicie o projeto
+# Start the project
 $ npm start
 ```
 
-- Escolha onde deseja executar o aplicativo.
+- Choose where you want to run the application.
